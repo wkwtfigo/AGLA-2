@@ -7,4 +7,4 @@ Solutions to Assignments of AGLA 2 course
 
 ## Jacobi Method
 
-![Task Description](jacobi.method)
+![Task Description](jacobi.png)
